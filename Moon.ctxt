@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ size
+comment0.target=Moon(int,\ int)
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Moon\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+numComments=2
